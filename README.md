@@ -1,13 +1,13 @@
 #### Hi! 👋  
 #### I'm a bioinformatics scientist [@Benjamin-Vincent-Lab](https://github.com/Benjamin-Vincent-Lab) working on novel immunogenomics tools with a focus on reproducible workflows. 
 
-### :computer: My primary languages are 
+### :computer:  My primary languages are 
 R, python & bash. 
 
-### :question: What's in my github?
+### :question:  What's in my github?
 These are mostly personal projects. For example, #TidyTuesday contributions & research posters. I'm always looking for fun, useful projects to work on. 
 
-### :coffee: How to reach me:
+### :coffee:  How to reach me:
 @ me on [Twitter](https://twitter.com/sapo83). I'm happy to chat about any of my projects & always open to feedback and/or collaborations!
 
 <!--
