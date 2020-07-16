@@ -8,7 +8,7 @@ R, python & bash.
 These are mostly personal projects. For example, #TidyTuesday contributions & research posters. I'm always looking for fun, useful projects to work on. 
 
 ### :coffee: How to reach me:
-@ me on [Twitter](https://twitter.com/sapo83). I'm happy to chat about any of my projects & always open to feedback!
+@ me on [Twitter](https://twitter.com/sapo83). I'm happy to chat about any of my projects & always open to feedback and/or collaborations!
 
 <!--
 **sapo83/sapo83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
