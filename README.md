@@ -1,4 +1,5 @@
-##### Hi! 👋  I'm a bioinformatics scientist @Benjamin-Vincent-Lab working on novel immunogenomics tools with a focus on reproducible workflows. 
+#### Hi! 👋  
+#### I'm a bioinformatics scientist @Benjamin-Vincent-Lab working on novel immunogenomics tools with a focus on reproducible workflows. 
 
 ### :computer: My primary languages are 
 R, python & bash. I'm always looking for fun, useful projects to work on. 
