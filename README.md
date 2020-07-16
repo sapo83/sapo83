@@ -5,7 +5,7 @@
 R, python & bash. 
 
 ### :question:  What's in my github?
-These are mostly personal projects. For example, #TidyTuesday contributions & research posters. I'm always looking for fun, useful projects to work on. 
+These are mostly personal projects. For example, #TidyTuesday contributions, research posters, random code chunks/scripts. I'm always looking for fun, useful projects to work on. 
 
 ### :coffee:  How to reach me:
 @ me on [Twitter](https://twitter.com/sapo83). I'm happy to chat about any of my projects & always open to feedback and/or collaborations!
