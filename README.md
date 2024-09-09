@@ -1,5 +1,5 @@
 #### Hi! 👋  
-#### I'm a bioinformatics scientist [@Benjamin-Vincent-Lab](https://github.com/Benjamin-Vincent-Lab) working on novel immunogenomics tools with a focus on reproducible workflows. 
+#### I'm a bioinformatics data engineer @ Vindhya Data Science working on pipeline development & automating internal infrastructure. 
 
 ### :computer:  My primary languages are 
 R, python & bash. 
