@@ -1,5 +1,5 @@
 #### Hi! 👋  
-#### I'm a bioinformatics data engineer @ Vindhya Data Science working on pipeline development & automating internal infrastructure. 
+#### I'm a bioinformatics data engineer @ Vindhya Data Science working on pipeline development & automating internal infrastructure. Formerly bioinformatics associate @ Ambry Genetics, bioinformatics scientist @ Benjamin Vincent's Lab UNC Chapel Hill.
 
 ### :computer:  My primary languages are 
 R, python & bash. 
